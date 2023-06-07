@@ -1,2 +1,2 @@
 # mortgage_calculator
- Calculates mortgage payments via terminal input
+Calculates mortgage payments using Python and user input from the terminal.
